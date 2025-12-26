@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-# Hi, I'm Azize 👋
+### Hi, I'm Azize 👋
 
 I'm a DevOps enthusiast with a strong focus on **Linux, Kubernetes, and cloud-native technologies**.  
 I believe in learning by doing and documenting real-world scenarios.
@@ -35,5 +32,3 @@ I believe in learning by doing and documenting real-world scenarios.
 
 ## 📫 How to reach me?
 - GitHub: https://github.com/azize-devops
-
--->

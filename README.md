@@ -4,14 +4,12 @@ I'm a DevOps enthusiast with a strong focus on **Linux, Kubernetes, and cloud-na
 I believe in learning by doing and documenting real-world scenarios.
 
 ---
-
 ## 👩‍💻 Who am I?
 - DevOps & Cloud engineering enthusiast  
 - Passionate about infrastructure, automation, and troubleshooting  
 - Focused on building **hands-on experience**, not just theory
 
 ---
-
 ## 🚀 What am I currently working on?
 - Preparing for **Certified Kubernetes Administrator (CKA)**
 - Building hands-on Kubernetes labs
@@ -19,7 +17,6 @@ I believe in learning by doing and documenting real-world scenarios.
 - Documenting failures, fixes, and learnings on GitHub
 
 ---
-
 ## 🛠️ Tools & Technologies
 - **Linux** (processes, users, permissions, networking)
 - **Docker & containerd**
@@ -29,6 +26,5 @@ I believe in learning by doing and documenting real-world scenarios.
 - CI/CD fundamentals
 
 ---
-
 ## 📫 How to reach me?
 - GitHub: https://github.com/azize-devops

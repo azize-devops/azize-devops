@@ -1,16 +1,39 @@
 ## Hi there 👋
 
 <!--
-**azize-devops/azize-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Azize 👋
 
-Here are some ideas to get you started:
+I'm a DevOps enthusiast with a strong focus on **Linux, Kubernetes, and cloud-native technologies**.  
+I believe in learning by doing and documenting real-world scenarios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 👩‍💻 Who am I?
+- DevOps & Cloud engineering enthusiast  
+- Passionate about infrastructure, automation, and troubleshooting  
+- Focused on building **hands-on experience**, not just theory
+
+---
+
+## 🚀 What am I currently working on?
+- Preparing for **Certified Kubernetes Administrator (CKA)**
+- Building hands-on Kubernetes labs
+- Practicing debugging, networking, and cluster operations
+- Documenting failures, fixes, and learnings on GitHub
+
+---
+
+## 🛠️ Tools & Technologies
+- **Linux** (processes, users, permissions, networking)
+- **Docker & containerd**
+- **Kubernetes** (Pods, Deployments, Services, Troubleshooting)
+- **YAML**
+- **Git & GitHub**
+- CI/CD fundamentals
+
+---
+
+## 📫 How to reach me?
+- GitHub: https://github.com/azize-devops
+
 -->

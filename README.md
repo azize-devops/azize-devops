@@ -11,7 +11,7 @@ I believe in learning by doing and documenting real-world scenarios.
 
 ---
 ## 🚀 What am I currently working on?
-- Preparing for **Certified Kubernetes Administrator (CKA)**
+- **Certified Kubernetes Administrator (CKA)**
 - Building hands-on Kubernetes labs
 - Practicing debugging, networking, and cluster operations
 - Documenting failures, fixes, and learnings on GitHub

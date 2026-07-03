@@ -50,13 +50,3 @@ Building production-ready cloud infrastructure with Kubernetes, Docker, and mode
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azize-dursun-)
 ```
 
-## PINNED REPOLAR
-
-GitHub profilinde şu 6 repoyu sabitle (sırayla):
-
-1. **ci-cd-docker-nginx-monitoring** (en önemli!)
-2. **ai-stack-k8s-**
-3. **localai-rag-k3s**
-4. **request-id-log-correlation-demo**
-5. **docker-compose-lab**
-6. **EPAM-Cloud-DevOps-WCA-2026--Beginner-**

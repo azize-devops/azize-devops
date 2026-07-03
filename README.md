@@ -1,8 +1,5 @@
-```markdown
 # Hi, I'm Azize
-
 **CKA & CKAD Certified DevOps Engineer**
-
 Building production-ready cloud infrastructure with Kubernetes, Docker, and modern DevOps practices.
 
 ## Certifications

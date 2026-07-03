@@ -17,7 +17,7 @@ Building production-ready cloud infrastructure with Kubernetes, Docker, and mode
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 
-**CI/CD & Automation**
+###CI/CD & Automation###
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
@@ -50,16 +50,6 @@ Building production-ready cloud infrastructure with Kubernetes, Docker, and mode
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azize-dursun-)
 ```
-
----
-
-## YAPILACAKLAR
-
-1. GitHub'da azize-devops/azize-devops reposuna git
-2. README.md dosyasını düzenle
-3. Yukarıdaki markdown'ı yapıştır
-4. Commit et
-
 ## PINNED REPOLAR
 
 GitHub profilinde şu 6 repoyu sabitle (sırayla):
@@ -70,5 +60,3 @@ GitHub profilinde şu 6 repoyu sabitle (sırayla):
 4. **request-id-log-correlation-demo**
 5. **docker-compose-lab**
 6. **EPAM-Cloud-DevOps-WCA-2026--Beginner-**
-
-Sabitleme: Profile git > "Customize your pins" > Seç

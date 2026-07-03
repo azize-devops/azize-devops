@@ -1,36 +1,74 @@
-  # Hi, I'm Azize 👋
+```markdown
+# Hi, I'm Azize
 
-  I'm a **CKA & CKAD-certified** DevOps-focused developer with a strong focus on **Linux, Kubernetes, and cloud-native technologies**.
-  I believe in learning by doing, building real systems, and documenting real-world scenarios.
+**CKA & CKAD Certified DevOps Engineer**
 
-  ---
+Building production-ready cloud infrastructure with Kubernetes, Docker, and modern DevOps practices.
 
-  ## 👩‍💻 Who am I?
-  - **Certified Kubernetes Administrator (CKA)**
-  - **Certified Kubernetes Application Developer (CKAD)**
-  - DevOps & Cloud engineering enthusiast
-  - Passionate about infrastructure, automation, and troubleshooting
-  - Focused on **hands-on, production-oriented experience**, not just theory
+## Certifications
 
-  ---
+- **CKA** - Certified Kubernetes Administrator
+- **CKAD** - Certified Kubernetes Application Developer
 
-  ## 🚀 What am I currently working on?
-  - Building hands-on Kubernetes labs and workloads
-  - Practicing debugging, networking, and cluster operations
-  - Documenting failures, fixes, and learnings on GitHub
-  - Exploring advanced Kubernetes patterns and cloud-native tools
+## Tech Stack
 
-  ---
+**Container & Orchestration**
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 
-  ## 🛠️ Tools & Technologies
-  - **Linux** (processes, users, permissions, networking)
-  - **Docker & containerd**
-  - **Kubernetes** (Pods, Deployments, Services, ConfigMaps, basic troubleshooting)
-  - **YAML**
-  - **Git & GitHub**
-  - **CI/CD fundamentals**
+**CI/CD & Automation**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
-  ---
+**Monitoring & Observability**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
-  ## 📫 How to reach me?
-  - GitHub: https://github.com/azize-devops
+**Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+## Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [ci-cd-docker-nginx-monitoring](https://github.com/azize-devops/ci-cd-docker-nginx-monitoring) | Production-ready CI/CD with monitoring stack | Docker, Nginx, Prometheus, Grafana, GitHub Actions |
+| [ai-stack-k8s](https://github.com/azize-devops/ai-stack-k8s-) | AI/ML workloads on Kubernetes | Kubernetes, Python |
+| [localai-rag-k3s](https://github.com/azize-devops/localai-rag-k3s) | RAG deployment on K3s | K3s, Shell |
+| [request-id-log-correlation-demo](https://github.com/azize-devops/request-id-log-correlation-demo) | Distributed tracing with request ID correlation | Python, Logging |
+
+## Currently Learning
+
+- Advanced Kubernetes patterns (Operators, CRDs)
+- AWS Solutions Architecture
+- GitOps with ArgoCD
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azize-dursun-)
+```
+
+---
+
+## YAPILACAKLAR
+
+1. GitHub'da azize-devops/azize-devops reposuna git
+2. README.md dosyasını düzenle
+3. Yukarıdaki markdown'ı yapıştır
+4. Commit et
+
+## PINNED REPOLAR
+
+GitHub profilinde şu 6 repoyu sabitle (sırayla):
+
+1. **ci-cd-docker-nginx-monitoring** (en önemli!)
+2. **ai-stack-k8s-**
+3. **localai-rag-k3s**
+4. **request-id-log-correlation-demo**
+5. **docker-compose-lab**
+6. **EPAM-Cloud-DevOps-WCA-2026--Beginner-**
+
+Sabitleme: Profile git > "Customize your pins" > Seç

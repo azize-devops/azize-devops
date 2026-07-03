@@ -1,11 +1,13 @@
 # Hi, I'm Azize
+
 **CKA & CKAD Certified DevOps Engineer**
 
 Building production-ready cloud infrastructure with Kubernetes, Docker, and modern DevOps practices.
 
 ## Certifications
-- [CKA](https://www.credly.com/badges/81a41ad1-87a9-47aa-a9cb-9dc2c87c3da9/public_url) - Certified Kubernetes Administrator
-- [CKAD](https://www.credly.com/badges/06c5a9b5-202c-4569-998d-e5f993ea28e4/public_url)- Certified Kubernetes Application Developer
+
+[![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/81a41ad1-87a9-47aa-a9cb-9dc2c87c3da9)
+[![CKAD](https://img.shields.io/badge/CKAD-Certified_Kubernetes_Application_Developer-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/06c5a9b5-202c-4569-998d-e5f993ea28e4)
 
 ## Tech Stack
 
@@ -47,6 +49,7 @@ Building production-ready cloud infrastructure with Kubernetes, Docker, and mode
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azize-dursun-)
 ```
+
 ## PINNED REPOLAR
 
 GitHub profilinde şu 6 repoyu sabitle (sırayla):

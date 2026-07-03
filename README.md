@@ -6,7 +6,7 @@ Building production-ready cloud infrastructure with Kubernetes, Docker, and mode
 ## Certifications
 
 - **CKA** - Certified Kubernetes Administrator
-- ![**CKAD**](https://www.credly.com/badges/81a41ad1-87a9-47aa-a9cb-9dc2c87c3da9/linked_in_profile)- Certified Kubernetes Application Developer
+- ![**CKAD**](https://www.credly.com/badges/81a41ad1-87a9-47aa-a9cb-9dc2c87c3da9/public_url)- Certified Kubernetes Application Developer
 
 ## Tech Stack
 
